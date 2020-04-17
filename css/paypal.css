@@ -1,0 +1,14 @@
+body{
+	background-color: var(--cafe-color);
+	height: 100vh;
+	text-align: center;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+.exito-dos{
+	color: white;
+}
+.exito-dos a{
+	color: #FF3300;
+}
